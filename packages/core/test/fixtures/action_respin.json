@@ -1,0 +1,354 @@
+{
+  "capturedBy": "xhr",
+  "completedAt": "2026-07-23T10:25:34.358Z",
+  "frameId": 0,
+  "id": "3752cfaa-2a2b-4927-bc10-9f38570b1f0d",
+  "method": "POST",
+  "pageUrl": "https://betman-demo.head.kendoo.pro/betman-demo/static/game.html?token=REDACTED&game=zeus_power&wl=demo&title=Zeus%20Power&lang=en&exit_url=https://kendoo.com",
+  "requestBody": {
+    "action": {
+      "name": "respin",
+      "params": {}
+    },
+    "autogame": true,
+    "client_command_timestamp": 1784802334291,
+    "command": "play",
+    "fullscreen": true,
+    "mobile": "0",
+    "portrait": false,
+    "prev_client_command_time": 73,
+    "quick_spin": 2,
+    "request_id": "b630f4e45ad34ca6b6847724c3a0ac9b",
+    "session_id": "d4bf7742202f4d10a2f02b0bd0eef4f6",
+    "set_denominator": 1,
+    "sound": true
+  },
+  "responseBody": {
+    "command": "play",
+    "context": {
+      "achievements": {
+        "level": 3,
+        "level_percent": 0.45,
+        "number": 147,
+        "total_percent": 0.817
+      },
+      "actions": [
+        "respin"
+      ],
+      "available_buy_bonus": [
+        1,
+        2
+      ],
+      "bonus": {
+        "bet_per_line": 5,
+        "bg_type": 0,
+        "board": [
+          [
+            0,
+            11,
+            0,
+            0,
+            0,
+            11,
+            11,
+            11
+          ],
+          [
+            11,
+            0,
+            0,
+            0,
+            0,
+            11,
+            11,
+            11
+          ],
+          [
+            0,
+            0,
+            11,
+            0,
+            0,
+            0,
+            0,
+            11
+          ],
+          [
+            0,
+            0,
+            0,
+            11,
+            0,
+            0,
+            0,
+            0
+          ],
+          [
+            0,
+            0,
+            0,
+            0,
+            11,
+            0,
+            0,
+            0
+          ]
+        ],
+        "board_spins": [
+          [
+            6,
+            11,
+            11,
+            11
+          ],
+          [
+            7,
+            11,
+            11,
+            11
+          ],
+          [
+            7,
+            7,
+            7,
+            11
+          ],
+          [
+            6,
+            6,
+            8,
+            8
+          ],
+          [
+            11,
+            6,
+            6,
+            8
+          ]
+        ],
+        "bs": [
+          {
+            "position": 5,
+            "reel": 0,
+            "type": "regular",
+            "value": 100
+          },
+          {
+            "position": 6,
+            "reel": 0,
+            "type": "regular",
+            "value": 300
+          },
+          {
+            "position": 7,
+            "reel": 0,
+            "type": "regular",
+            "value": 200
+          },
+          {
+            "position": 5,
+            "reel": 1,
+            "type": "regular",
+            "value": 100
+          },
+          {
+            "position": 6,
+            "reel": 1,
+            "type": "regular",
+            "value": 50
+          },
+          {
+            "position": 7,
+            "reel": 1,
+            "type": "regular",
+            "value": 150
+          },
+          {
+            "position": 7,
+            "reel": 2,
+            "type": "regular",
+            "value": 100
+          },
+          {
+            "position": 4,
+            "reel": 4,
+            "type": "regular",
+            "value": 150
+          },
+          {
+            "position": 3,
+            "reel": 3,
+            "type": "minor",
+            "value": 2000
+          },
+          {
+            "position": 2,
+            "reel": 2,
+            "type": "regular",
+            "value": 500
+          },
+          {
+            "position": 0,
+            "reel": 1,
+            "type": "regular",
+            "value": 300
+          },
+          {
+            "position": 1,
+            "reel": 0,
+            "type": "regular",
+            "value": 400
+          }
+        ],
+        "bs_count": 12,
+        "cash_koef": 1.5,
+        "client": {
+          "BWG_auto": true,
+          "BWG_spin": true
+        },
+        "from_freespin": true,
+        "keys": 8,
+        "lines": 20,
+        "new_bs": [
+          {
+            "position": 3,
+            "reel": 3,
+            "type": "minor",
+            "value": 2000
+          },
+          {
+            "position": 2,
+            "reel": 2,
+            "type": "regular",
+            "value": 500
+          },
+          {
+            "position": 0,
+            "reel": 1,
+            "type": "regular",
+            "value": 300
+          },
+          {
+            "position": 1,
+            "reel": 0,
+            "type": "regular",
+            "value": 400
+          }
+        ],
+        "reelset_number": 0,
+        "round_bet": 100,
+        "round_win": 0,
+        "rounds_granted": 0,
+        "rounds_left": 2,
+        "threshold_num": 0,
+        "total_win": 270
+      },
+      "current": "bonus",
+      "freespins": {
+        "bet_per_line": 5,
+        "bs": [
+          {
+            "position": 5,
+            "reel": 0,
+            "type": "regular",
+            "value": 100
+          },
+          {
+            "position": 6,
+            "reel": 0,
+            "type": "regular",
+            "value": 300
+          },
+          {
+            "position": 7,
+            "reel": 0,
+            "type": "regular",
+            "value": 200
+          },
+          {
+            "position": 5,
+            "reel": 1,
+            "type": "regular",
+            "value": 100
+          },
+          {
+            "position": 6,
+            "reel": 1,
+            "type": "regular",
+            "value": 50
+          },
+          {
+            "position": 7,
+            "reel": 1,
+            "type": "regular",
+            "value": 150
+          },
+          {
+            "position": 7,
+            "reel": 2,
+            "type": "regular",
+            "value": 100
+          },
+          {
+            "position": 4,
+            "reel": 4,
+            "type": "regular",
+            "value": 150
+          }
+        ],
+        "bs_count": 8,
+        "cash_koef": 1.5,
+        "client": {
+          "BWG_auto": true,
+          "BWG_spin": true
+        },
+        "lines": 20,
+        "reelset_number": 0,
+        "round_bet": 100,
+        "round_win": 0,
+        "rounds_granted": 8,
+        "rounds_left": 3,
+        "total_win": 0,
+        "wild_drop": false
+      },
+      "last_action": "respin",
+      "last_args": {},
+      "last_win": 70,
+      "round_finished": false,
+      "version": 1
+    },
+    "modes": [
+      "auto",
+      "play"
+    ],
+    "origin_data": {
+      "autogame": true,
+      "client_command_timestamp": 1784802334291,
+      "feature": true,
+      "fullscreen": true,
+      "mobile": "0",
+      "portrait": false,
+      "quickspin": 2,
+      "set_denominator": 1,
+      "sound": true
+    },
+    "request_id": "b630f4e45ad34ca6b6847724c3a0ac9b",
+    "session_id": "d4bf7742202f4d10a2f02b0bd0eef4f6",
+    "status": {
+      "code": "OK"
+    },
+    "user": {
+      "balance": 89715,
+      "balance_version": 152,
+      "currency": "FUN",
+      "huid": "demo-7b63c1e980054fcba73d4e80587251d4",
+      "is_test": false,
+      "show_balance": true
+    }
+  },
+  "startedAt": "2026-07-23T10:25:34.291Z",
+  "status": 200,
+  "statusText": "",
+  "tabId": 605692607,
+  "url": "//betman-demo.head.kendoo.pro/betman-demo/gs/zeus_power/desktop/611495f06ee84c71b12dae70001923ec/demo/?gsc=play"
+}

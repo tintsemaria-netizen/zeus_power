@@ -1,0 +1,246 @@
+{
+  "capturedBy": "xhr",
+  "completedAt": "2026-07-23T10:25:08.543Z",
+  "frameId": 0,
+  "id": "7723db6c-f8c5-4761-adb1-4e3eecf6b832",
+  "method": "POST",
+  "pageUrl": "https://betman-demo.head.kendoo.pro/betman-demo/static/game.html?token=REDACTED&game=zeus_power&wl=demo&title=Zeus%20Power&lang=en&exit_url=https://kendoo.com",
+  "requestBody": {
+    "action": {
+      "name": "freespin",
+      "params": {}
+    },
+    "autogame": true,
+    "client_command_timestamp": 1784802308477,
+    "command": "play",
+    "fullscreen": true,
+    "mobile": "0",
+    "portrait": false,
+    "prev_client_command_time": 68,
+    "quick_spin": 2,
+    "request_id": "3cc643447e8c40319274158d123f9038",
+    "session_id": "d4bf7742202f4d10a2f02b0bd0eef4f6",
+    "set_denominator": 1,
+    "sound": true
+  },
+  "responseBody": {
+    "command": "play",
+    "context": {
+      "achievements": {
+        "level": 3,
+        "level_percent": 0.2,
+        "number": 132,
+        "total_percent": 0.733
+      },
+      "actions": [
+        "freespin"
+      ],
+      "available_buy_bonus": [
+        1,
+        2
+      ],
+      "current": "freespins",
+      "freespins": {
+        "bet_per_line": 5,
+        "board": [
+          [
+            5,
+            5,
+            5,
+            9
+          ],
+          [
+            7,
+            7,
+            7,
+            9
+          ],
+          [
+            6,
+            6,
+            10,
+            7
+          ],
+          [
+            8,
+            8,
+            5,
+            5
+          ],
+          [
+            6,
+            6,
+            6,
+            6
+          ]
+        ],
+        "bs_count": 0,
+        "cash_koef": 1.5,
+        "client": {
+          "BWG_auto": true,
+          "BWG_spin": true
+        },
+        "lines": 20,
+        "reelset_number": 0,
+        "round_bet": 100,
+        "round_win": 70,
+        "rounds_granted": 8,
+        "rounds_left": 7,
+        "total_win": 270,
+        "wild_drop": false,
+        "winlines": [
+          {
+            "amount": 35,
+            "line": 4,
+            "occurrences": 3,
+            "positions": [
+              [
+                0,
+                3
+              ],
+              [
+                1,
+                3
+              ],
+              [
+                2,
+                3
+              ]
+            ],
+            "symbol": 7,
+            "type": "lb"
+          },
+          {
+            "amount": 35,
+            "line": 14,
+            "occurrences": 3,
+            "positions": [
+              [
+                0,
+                3
+              ],
+              [
+                1,
+                2
+              ],
+              [
+                2,
+                3
+              ]
+            ],
+            "symbol": 7,
+            "type": "lb"
+          }
+        ]
+      },
+      "last_action": "freespin",
+      "last_args": {},
+      "last_win": 70,
+      "round_finished": false,
+      "spins": {
+        "bet_per_line": 5,
+        "board": [
+          [
+            10,
+            2,
+            2,
+            2
+          ],
+          [
+            5,
+            5,
+            5,
+            9
+          ],
+          [
+            10,
+            4,
+            4,
+            4
+          ],
+          [
+            4,
+            4,
+            4,
+            4
+          ],
+          [
+            2,
+            10,
+            4,
+            4
+          ]
+        ],
+        "bs_count": 0,
+        "cash_koef": 1.5,
+        "client": {
+          "BWG_auto": true,
+          "BWG_spin": true
+        },
+        "lines": 20,
+        "reelset_number": 2,
+        "round_bet": 100,
+        "round_win": 200,
+        "wild_drop": false,
+        "winscatters": [
+          {
+            "amount": 200,
+            "freespins": 8,
+            "occurrences": 3,
+            "positions": [
+              [
+                0,
+                0
+              ],
+              [
+                2,
+                0
+              ],
+              [
+                4,
+                1
+              ]
+            ],
+            "symbol": 10,
+            "trigger": null,
+            "type": "tb"
+          }
+        ]
+      },
+      "version": 1
+    },
+    "modes": [
+      "auto",
+      "play"
+    ],
+    "origin_data": {
+      "autogame": true,
+      "client_command_timestamp": 1784802308477,
+      "feature": true,
+      "fullscreen": true,
+      "mobile": "0",
+      "portrait": false,
+      "quickspin": 2,
+      "set_denominator": 1,
+      "sound": true
+    },
+    "request_id": "3cc643447e8c40319274158d123f9038",
+    "session_id": "d4bf7742202f4d10a2f02b0bd0eef4f6",
+    "status": {
+      "code": "OK"
+    },
+    "user": {
+      "balance": 89715,
+      "balance_version": 146,
+      "currency": "FUN",
+      "huid": "demo-7b63c1e980054fcba73d4e80587251d4",
+      "is_test": false,
+      "show_balance": true
+    }
+  },
+  "startedAt": "2026-07-23T10:25:08.477Z",
+  "status": 200,
+  "statusText": "",
+  "tabId": 605692607,
+  "url": "//betman-demo.head.kendoo.pro/betman-demo/gs/zeus_power/desktop/611495f06ee84c71b12dae70001923ec/demo/?gsc=play"
+}

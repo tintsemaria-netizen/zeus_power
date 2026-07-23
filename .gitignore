@@ -1,0 +1,12 @@
+node_modules/
+dist/
+out/
+*.tsbuildinfo
+
+# Capture may contain demo tokens/session ids — keep out of version control.
+input/
+*.zip
+
+# Local env
+.env
+.env.local

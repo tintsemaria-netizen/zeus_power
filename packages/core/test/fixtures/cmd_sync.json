@@ -1,0 +1,40 @@
+{
+  "capturedBy": "xhr",
+  "completedAt": "2026-07-23T10:22:54.632Z",
+  "frameId": 0,
+  "id": "442b4b63-d463-41c0-bfa1-14008ddc4434",
+  "method": "POST",
+  "pageUrl": "https://betman-demo.head.kendoo.pro/betman-demo/static/game.html?token=REDACTED&game=zeus_power&wl=demo&title=Zeus%20Power&lang=en&exit_url=https://kendoo.com",
+  "requestBody": {
+    "client_command_timestamp": 1784802174567,
+    "command": "sync",
+    "prev_client_command_time": 57,
+    "request_id": "a7dd7999ec6840288baf30629335c7b3",
+    "session_id": "4be1c3bb2577409c8a54cc74069eaaf5"
+  },
+  "responseBody": {
+    "command": "sync",
+    "modes": [
+      "auto",
+      "play"
+    ],
+    "request_id": "a7dd7999ec6840288baf30629335c7b3",
+    "session_id": "4be1c3bb2577409c8a54cc74069eaaf5",
+    "status": {
+      "code": "OK"
+    },
+    "user": {
+      "balance": 99800,
+      "balance_version": 4,
+      "currency": "FUN",
+      "huid": "demo-f0af66b037c2415b9e6ee8f00512c281",
+      "is_test": false,
+      "show_balance": true
+    }
+  },
+  "startedAt": "2026-07-23T10:22:54.567Z",
+  "status": 200,
+  "statusText": "",
+  "tabId": 605692607,
+  "url": "//betman-demo.head.kendoo.pro/betman-demo/gs/zeus_power/desktop/611495f06ee84c71b12dae70001923ec/demo/?gsc=sync"
+}

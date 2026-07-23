@@ -1,0 +1,393 @@
+{
+  "capturedBy": "xhr",
+  "completedAt": "2026-07-23T10:26:57.204Z",
+  "frameId": 0,
+  "id": "6f6ac94c-d8cc-48b4-a4fa-59f9f9234c34",
+  "method": "POST",
+  "pageUrl": "https://betman-demo.head.kendoo.pro/betman-demo/static/game.html?token=REDACTED&game=zeus_power&wl=demo&title=Zeus%20Power&lang=en&exit_url=https://kendoo.com",
+  "requestBody": {
+    "action": {
+      "name": "mini_bonus_init",
+      "params": {}
+    },
+    "autogame": true,
+    "client_command_timestamp": 1784802417137,
+    "command": "play",
+    "fullscreen": true,
+    "mobile": "0",
+    "portrait": false,
+    "prev_client_command_time": 64,
+    "quick_spin": 2,
+    "request_id": "1aa6424902b24dff9d0f457a55596b6c",
+    "session_id": "d4bf7742202f4d10a2f02b0bd0eef4f6",
+    "set_denominator": 1,
+    "sound": true
+  },
+  "responseBody": {
+    "command": "play",
+    "context": {
+      "achievements": {
+        "level": 4,
+        "level_percent": 1,
+        "number": 196,
+        "total_percent": 1
+      },
+      "actions": [
+        "mini_bonus_pick"
+      ],
+      "available_buy_bonus": [
+        1,
+        2
+      ],
+      "bonus": {
+        "bet_per_line": 5,
+        "bg_type": 1,
+        "board": [
+          [
+            0,
+            11,
+            11,
+            0,
+            0,
+            11,
+            11,
+            0
+          ],
+          [
+            0,
+            0,
+            0,
+            11,
+            11,
+            11,
+            0,
+            11
+          ],
+          [
+            11,
+            11,
+            0,
+            11,
+            11,
+            11,
+            0,
+            11
+          ],
+          [
+            0,
+            11,
+            0,
+            11,
+            0,
+            0,
+            11,
+            0
+          ],
+          [
+            11,
+            0,
+            11,
+            11,
+            0,
+            0,
+            11,
+            0
+          ]
+        ],
+        "board_spins": [
+          [
+            5,
+            11,
+            11,
+            3
+          ],
+          [
+            11,
+            11,
+            1,
+            1
+          ],
+          [
+            11,
+            11,
+            3,
+            3
+          ],
+          [
+            3,
+            3,
+            3,
+            4
+          ],
+          [
+            2,
+            2,
+            7,
+            7
+          ]
+        ],
+        "bs": [
+          {
+            "position": 5,
+            "reel": 0,
+            "type": "minor",
+            "value": 2000
+          },
+          {
+            "position": 6,
+            "reel": 0,
+            "type": "regular",
+            "value": 50
+          },
+          {
+            "position": 4,
+            "reel": 1,
+            "type": "regular",
+            "value": 200
+          },
+          {
+            "position": 5,
+            "reel": 1,
+            "type": "regular",
+            "value": 100
+          },
+          {
+            "position": 4,
+            "reel": 2,
+            "type": "regular",
+            "value": 150
+          },
+          {
+            "position": 5,
+            "reel": 2,
+            "type": "regular",
+            "value": 100
+          },
+          {
+            "position": 3,
+            "reel": 4,
+            "type": "fist",
+            "value": 0
+          },
+          {
+            "position": 3,
+            "reel": 3,
+            "type": "regular",
+            "value": 400
+          },
+          {
+            "position": 3,
+            "reel": 1,
+            "type": "regular",
+            "value": 50
+          },
+          {
+            "position": 2,
+            "reel": 0,
+            "type": "regular",
+            "value": 400
+          },
+          {
+            "position": 2,
+            "reel": 4,
+            "type": "regular",
+            "value": 100
+          },
+          {
+            "position": 7,
+            "reel": 1,
+            "type": "regular",
+            "value": 50
+          },
+          {
+            "position": 6,
+            "reel": 4,
+            "type": "regular",
+            "value": 150
+          },
+          {
+            "position": 6,
+            "reel": 3,
+            "type": "regular",
+            "value": 300
+          },
+          {
+            "position": 3,
+            "reel": 2,
+            "type": "regular",
+            "value": 100
+          },
+          {
+            "position": 1,
+            "reel": 2,
+            "type": "fist",
+            "value": 0
+          },
+          {
+            "position": 1,
+            "reel": 0,
+            "type": "regular",
+            "value": 200
+          },
+          {
+            "position": 0,
+            "reel": 2,
+            "type": "regular",
+            "value": 300
+          },
+          {
+            "position": 7,
+            "reel": 2,
+            "type": "regular",
+            "value": 50
+          },
+          {
+            "position": 0,
+            "reel": 4,
+            "type": "regular",
+            "value": 300
+          },
+          {
+            "position": 1,
+            "reel": 3,
+            "type": "regular",
+            "value": 300
+          }
+        ],
+        "bs_count": 21,
+        "cash_koef": 1.5,
+        "client": {
+          "BWG_auto": true,
+          "BWG_spin": true
+        },
+        "fist_bg": [
+          {
+            "fist_bg_type": 1,
+            "mult": 1,
+            "position": 3,
+            "reel": 4,
+            "state": "active",
+            "win": 0
+          }
+        ],
+        "from_freespin": false,
+        "keys": 14,
+        "lines": 20,
+        "reelset_number": 2,
+        "round_bet": 100,
+        "round_win": 0,
+        "rounds_granted": 0,
+        "rounds_left": 0,
+        "threshold_num": 1,
+        "total_win": 0
+      },
+      "current": "fist_bonus",
+      "fist_bonus": {
+        "bet_per_line": 5,
+        "board": [
+          [
+            0,
+            11,
+            11,
+            0,
+            0,
+            11,
+            11,
+            0
+          ],
+          [
+            0,
+            0,
+            0,
+            11,
+            11,
+            11,
+            0,
+            11
+          ],
+          [
+            11,
+            11,
+            0,
+            11,
+            11,
+            11,
+            0,
+            11
+          ],
+          [
+            0,
+            11,
+            0,
+            11,
+            0,
+            0,
+            11,
+            0
+          ],
+          [
+            11,
+            0,
+            11,
+            11,
+            0,
+            0,
+            11,
+            0
+          ]
+        ],
+        "bs_count": 0,
+        "client": {
+          "BWG_auto": true,
+          "BWG_spin": true
+        },
+        "fist_bg_type": 1,
+        "fist_bs_count": 0,
+        "fist_mult_win": 1,
+        "fist_round_win": 0,
+        "fist_rounds_left": 3,
+        "lines": 20,
+        "round_bet": 100,
+        "total_win": 0
+      },
+      "last_action": "mini_bonus_init",
+      "last_args": {},
+      "last_win": 20,
+      "round_finished": false,
+      "version": 1
+    },
+    "modes": [
+      "auto",
+      "play"
+    ],
+    "origin_data": {
+      "autogame": true,
+      "client_command_timestamp": 1784802417137,
+      "feature": true,
+      "fullscreen": true,
+      "mobile": "0",
+      "portrait": false,
+      "quickspin": 2,
+      "set_denominator": 1,
+      "sound": true
+    },
+    "request_id": "1aa6424902b24dff9d0f457a55596b6c",
+    "session_id": "d4bf7742202f4d10a2f02b0bd0eef4f6",
+    "status": {
+      "code": "OK"
+    },
+    "user": {
+      "balance": 89660,
+      "balance_version": 201,
+      "currency": "FUN",
+      "huid": "demo-7b63c1e980054fcba73d4e80587251d4",
+      "is_test": false,
+      "show_balance": true
+    }
+  },
+  "startedAt": "2026-07-23T10:26:57.137Z",
+  "status": 200,
+  "statusText": "",
+  "tabId": 605692607,
+  "url": "//betman-demo.head.kendoo.pro/betman-demo/gs/zeus_power/desktop/611495f06ee84c71b12dae70001923ec/demo/?gsc=play"
+}

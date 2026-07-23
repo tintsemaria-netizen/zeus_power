@@ -1,0 +1,20 @@
+{
+  "name": "zeus-power-research",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Zeus Power protocol research bot & analytics dashboard — authorized demo-server research only",
+  "packageManager": "pnpm@11.7.0",
+  "type": "module",
+  "scripts": {
+    "build": "pnpm -r build",
+    "test": "pnpm -r test",
+    "typecheck": "pnpm -r typecheck",
+    "lint": "pnpm -r lint",
+    "import:capture": "tsx scripts/import-capture.ts",
+    "replay:capture": "tsx scripts/replay-capture.ts"
+  },
+  "devDependencies": {
+    "tsx": "^4.19.2",
+    "typescript": "^5.6.3"
+  }
+}
