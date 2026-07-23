@@ -10,3 +10,9 @@ input/
 # Local env
 .env
 .env.local
+
+# NEVER commit the PAT / any key material
+GitKey
+*.pem
+*.key
+*ghp_*

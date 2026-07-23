@@ -19,6 +19,14 @@ full stack.
       0 drift, 0 illegal transitions, 0 unknown actions; 779 derived rounds; deterministic
       summary in `out/replay-summary.json`. 39 unit/integration tests pass.
 
+- [x] **Phase 9 (MVP) — Dashboard.** `@zeus/dashboard`: Vite + React + TS + Tailwind v4 +
+      ECharts single-page analytics dashboard (dark). Renders a generated
+      `dashboard-data.json` (economics, RTP convergence, bankroll curve, win-multiplier
+      histogram, feature frequencies w/ Wilson CIs, advertised-action-set distribution, state
+      transitions, protocol-health/latency). Data generator: `scripts/build-dashboard-data.ts`.
+      **Deployed** to `/var/www/zeus_power` behind nginx (`:80` + `:443` self-signed origin
+      cert) at **https://zeus_power.ackedberryes.store/** via Cloudflare (Full mode).
+
 ## Next (not started)
 
 - [ ] **Phase 6 — Persistence.** PostgreSQL migrations (users, profiles, runs, audit) +
